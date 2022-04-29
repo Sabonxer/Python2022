@@ -1,0 +1,6 @@
+Rect(125, 125, 75, 75, relleno=gradiente('naranjamarron', 'granate'))
+Rect(200, 200, 75, 75, relleno=gradiente('naranjamarron', 'granate'))
+Rect(275, 275, 75, 75, relleno=gradiente('naranjamarron', 'granate'))
+Rect(50, 50, 40, 40, relleno=gradiente('naranjamarron', 'granate'))
+Rect(100, 50, 200, 40, relleno=gradiente('azulreal', 'azulcieloprofundo', 'azulgandul', inicio='superior'))
+Rect(50, 100, 40, 200, relleno=gradiente('azulreal', 'azulcieloprofundo', 'azulgandul', inicio='izquierda'))
